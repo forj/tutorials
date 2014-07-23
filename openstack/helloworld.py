@@ -3,7 +3,7 @@ def print_values(a, b, c):
 
 
 def main():
-    print "How old are you, Mike?",
+    print "How old are you",
     age = raw_input()
     print "How Tall are you?",
     height = raw_input()
